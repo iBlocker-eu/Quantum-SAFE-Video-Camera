@@ -1,5 +1,5 @@
 # AlpineAP
-Alpine Linux Access POINT on Raspberry Pi
+Alpine Linux Access POINT on Raspberry Pi4
 INSTALL OS
 1. Create a 300 MiB FAT32 Partition and copy the content of untarred alpine-rpi-3.20.1-aarch64.tar.gz.
 Create a second partition - ext4, aprox 1.7 GiB
