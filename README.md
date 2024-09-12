@@ -1,2 +1,2 @@
 # Alpine Access POINT
-Configure Alpine Linux Access POINT on Raspberry Pi4
+Standalone USB camera and Wifi Access Point
