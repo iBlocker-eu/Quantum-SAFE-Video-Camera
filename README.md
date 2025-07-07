@@ -5,4 +5,9 @@
 
 ![](https://www.2transfer.eu/iblocker/camera/NO2.JPG)
 
-Video records are tunnelled (via a Quantum Safe SSH) to your server!
+Live Video is tunnelled (via a Quantum Safe SSH) to your server!
+iBlocker supports 2 x USB attached cameras.
+Video records are locally stored for 1 week.
+Video records is enabled when motion is detected.
+No Cloud, no Java!
+No App, no Account no Third Party!
