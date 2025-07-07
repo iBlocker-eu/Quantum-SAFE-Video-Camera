@@ -11,7 +11,7 @@ iBlocker supports 2 x USB attached cameras.
 
 Video records are locally stored for 1 week.
 
-Video records is enabled when motion is detected.
+Video recording enabled  only when motion is detected.
 
 No Cloud, no Java!
 
