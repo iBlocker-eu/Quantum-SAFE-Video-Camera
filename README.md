@@ -19,4 +19,10 @@ No App, no Account no Third Party!
 
 Easy to integrate a LTE Modem.
 
+User can define time intervals for camera recording.
+
+Plug and play: live video instantly available after camera is attached.
+
+No info stored about user or his video.
+
 Low power consumption.
