@@ -15,7 +15,7 @@ Video recording enabled  only when motion is detected.
 
 No Cloud, no Java!
 
-No App, no Account no Third Party!
+No App, no Account, no Third Party!
 
 Easy to integrate a LTE Modem.
 
